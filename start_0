@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./ac87utility
+rm -r /tmp/ac87utility
