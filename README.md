@@ -29,3 +29,8 @@
 ## English
 
 *To be translated...*
+
+______
+In case, if you wanna buy me a beer or coffee:
+* __PayPal__: valuxin@list.ru
+* __Yandex.Money__: 41001613334816
