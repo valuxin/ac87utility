@@ -1,5 +1,10 @@
 # ac87utility - utility for tweaking Asus RT-AC87U performance
 ## Russian
+### Как собрать
+Для сборки потребуется любая Linux среда с `bash`, `git` и `openssl`.
+1. `git clone https://github.com/valuxin/ac87utility.git && cd ac87utility`
+2. Для сборки используйте комманду `./export.sh`. Готовый файл будет лежать в папке *build*. 
+### Описание
 Полезная утилита для увеличения мощности радиомодулей, разгона CPU и прочих мелких плюх.
 
 * Перед запуском программы желательно иметь хотя бы 5Мб свободной RAM и 500Кб свободной памяти на JFFS разделе.
